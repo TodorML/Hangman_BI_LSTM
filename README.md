@@ -1,4 +1,4 @@
-# Hangman Solver — Bi-LSTM
+# Hangman Solver - Bi-LSTM
 
 Solving the game of Hangman using a 6-layer Bidirectional LSTM neural network, 
 trained on ~250,000 dictionary words and tested on a completely disjoint set of 1,000 unseen words.
