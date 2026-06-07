@@ -21,7 +21,7 @@ directions of the word, significantly outperforming n-gram and frequency-based b
 | Method | Accuracy |
 |--------|----------|
 | Benchmark (frequency baseline) | ~18% |
-| **Bi-LSTM (this work)** | **61.6%** |
+| **Bi-LSTM** | **61.6%** |
 
 ## Tech Stack
 Python · PyTorch · NumPy
